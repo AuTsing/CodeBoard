@@ -30,6 +30,11 @@
   - @lizhizhuanshu
   - https://github.com/lizhizhuanshu/grab_color
 
+- OcrServer
+  - TODO
+  - @roiff
+  - https://github.com/roiff/OcrServer
+
 # 非开源项目
 
 - TODO
